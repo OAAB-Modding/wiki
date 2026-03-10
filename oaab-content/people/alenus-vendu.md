@@ -16,5 +16,8 @@ description: A Dark Elf enchantress who sells her wares from the Services Tower 
 	* Alenus sends the player to locate her missing, enchanted wares which have been stolen by a scamp.
 * The Domain of Living Fire[^1]
 	* At [[aryon|Aryon]]'s request, Alenus will give the player a fire shield ring and soul trapping equipment to help fight the flame monarch.
+* Aspect of Azura[^2]
+	* Can be persuaded to identify the approximate location of an Azura's Servant shield.
 
 [^1]: [[oaab-grazelands|OAAB Grazelands]]
+[^2]: [[aspect-of-azura|Aspect of Azura]]

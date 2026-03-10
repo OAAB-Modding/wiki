@@ -2,7 +2,7 @@
 title: A Scholar's Guide to Nymphs
 aliases:
   - A Scholar's Guide to Nymphs
-description: One man's experience with Nymphs
+description: One man's experience with Nymphs.
 author:
   - Bethesda
 tags:
