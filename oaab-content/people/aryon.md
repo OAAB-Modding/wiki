@@ -35,7 +35,7 @@ A("Aryon") -- Cousins --> B("Mirvon Andrethi")
 	* Aryon asks the player to locate [[milyn-faram|Milyn Faram]]'s [[ideographer]] in Odirniran as he would like to acquire it.
 * The Domain of Living Fire[^2]
 	* Aryon sends the player to kill the flame [[atronach-monarch|Atronach Monarch]] beneath [[tel-vos|Tel Vos]] in the caverns of Molaguradan.
-* * A Smidge Too Far[^2]
+* A Smidge Too Far[^2]
 	* Aryon agrees to help the paralyzed Breton trader in [[tel-mora|Tel Mora]] and asks the player to fetch a potion of cure paralyzation so he can create a special cure.
 * Aspect of Azura[^3]
 	* Can be asked about the location of the Azura's Servant shield but won't be helpful. The player will need to ask [[alenus-vendu|Alenus Vendu]] instead.

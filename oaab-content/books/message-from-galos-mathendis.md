@@ -2,7 +2,7 @@
 title: Message from Galos Mathendis
 aliases:
   - Message from Galos Mathendis
-description: A message from Galos Mathendis to Milar Maryon regarding magic doors.
+description: A message from Galos Mathendis to Milyn Faram regarding magic doors.
 tags:
   - books
   - current

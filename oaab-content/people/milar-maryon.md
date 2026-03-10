@@ -1,29 +1,21 @@
 ---
-title: Milyn Faram
+title: Milar Maryon
 aliases:
-  - Milyn Faram
+  - Milar Maryon
 tags:
   - people
   - telvanni
 ---
-### [UESP](https://en.uesp.net/wiki/Morrowind:Milyn_Faram)
-**Milyn Faram** is a [Telvanni](https://en.uesp.net/wiki/Morrowind:House_Telvanni "Morrowind:House Telvanni") [sorcerer](https://en.uesp.net/wiki/Morrowind:Sorcerer "Morrowind:Sorcerer") of some renown, whose residence at the tower of [Odirniran](https://en.uesp.net/wiki/Morrowind:Odirniran_(place) "Morrowind:Odirniran (place)") is under siege by a group of [Hlaalu](https://en.uesp.net/wiki/Morrowind:House_Hlaalu "Morrowind:House Hlaalu"). He has taken [Vedelea Othril](https://en.uesp.net/wiki/Morrowind:Vedelea_Othril "Morrowind:Vedelea Othril") prisoner for "experiments", and her sisters [Farare](https://en.uesp.net/wiki/Morrowind:Farare_Othril "Morrowind:Farare Othril") and [Remasa](https://en.uesp.net/wiki/Morrowind:Remasa_Othril "Morrowind:Remasa Othril") brought a rescue party to try and save her. Depending on which House you have joined, you will either [help them](https://en.uesp.net/wiki/Morrowind:Telvanni_at_Odirniran "Morrowind:Telvanni at Odirniran") or [stop them](https://en.uesp.net/wiki/Morrowind:Odirniran_(quest) "Morrowind:Odirniran (quest)").
-
-Milyn Faram's research has resulted in [magical scrolls](https://en.uesp.net/wiki/Morrowind:Milyn_Faram%27s_Scroll "Morrowind:Milyn Faram's Scroll") which can be used to summon [Daedroth](https://en.uesp.net/wiki/Morrowind:Daedroth "Morrowind:Daedroth"). If you rescue him from the Hlaalu and keep Vedelea unharmed, he will give you 7 of these. They can also be found in many other places as random loot. One guaranteed copy can be found on a table in [Assu](https://en.uesp.net/wiki/Morrowind:Assu "Morrowind:Assu").
-
-> [!Quote]
-> Scrolls of summoning are, without exception, based on the Law of Similarity as you must know. While others use parts of the creature, such as [Daedra skin](https://en.uesp.net/wiki/Morrowind:Daedra_Skin "Morrowind:Daedra Skin") for summoning [Daedra](https://en.uesp.net/wiki/Morrowind:Daedra "Morrowind:Daedra"), I have developed a new methods, based on a recovered [[races/dwemer/index|Dwemer]] machine. My scrolls only have an image of the Daedra, which works almost as well as a Daedra skin or [heart](https://en.uesp.net/wiki/Morrowind:Daedra%27s_Heart "Morrowind:Daedra's Heart")... And at a fraction of the cost.
-> -- [[milyn-faram|Milyn Faram]] (dialogue)
+### [UESP](https://en.uesp.net/wiki/Morrowind:Milar_Maryon)
+**Milar Maryon** is a [Dark Elf](https://en.uesp.net/wiki/Morrowind:Dark_Elf "Morrowind:Dark Elf") [healer](https://en.uesp.net/wiki/Morrowind:Healer_Service "Morrowind:Healer Service") who sells [ingredients](https://en.uesp.net/wiki/Morrowind:Ingredients "Morrowind:Ingredients"), [potions](https://en.uesp.net/wiki/Morrowind:Potions "Morrowind:Potions"), and [spells](https://en.uesp.net/wiki/Morrowind:Spells "Morrowind:Spells") to all who need them in the Services Tower in [Tel Vos](https://en.uesp.net/wiki/Morrowind:Tel_Vos "Morrowind:Tel Vos").
 
 ***
 ### Modded
-The "dwemer machine" mentioned by Milyn Faram is known as an "[[ideographer]]".[^1]
+Milar has devised his own personal spell of healing called "Milar's Mending". He will offer this as a possible reward for completing his quest to gather restorative suppliers.
 ### Quests
-* Imitation is the Sincerest Form of Forgery[^1]
-	* Milyn sells his Dwemer [[ideographer]] to [[aryon|Aryon]] and uses the funds to expand Odirniran.
-* Enchanted Quill Acquaintances[^2]
-	* Milyn sends the player back to [[galos-mathendis|Galos Mathendis]] with an inscribed key.
-* The Final Door[^1]
-	* Meets the player and [[galos-mathendis|Galos Mathendis]] at Indoranyon.
+* The Domain of Living Fire[^1]
+	* At [[aryon|Aryon's]] request, Milar will offer the player bandages to help in their quest to banish the [[atronach-monarch|Flame Monarch]].
+* Smokeskin-Willer[^1]
+	* Milar sends the player to collect ingredients to make potions of fortify willpower for [[smokeskin-killer|Smokeskin-Killer]].
 
-[^1]: [[oaab-grazelands|OAAB Grazelands]]s]]
+[^1]: [[oaab-grazelands|OAAB Grazelands]]

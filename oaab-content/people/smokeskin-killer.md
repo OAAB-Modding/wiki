@@ -26,6 +26,6 @@ Named for killing Dunmer or "smoke skins", Smokeskin-Killer is a veteran of the 
 * Imitation is the Sincerest Form of Forgery[^1]
 	* Smokeskin-Killer tips the player off that [[aryon|Aryon]] may be interested in a new Dwemer artifact for the [[tel-vos|Tel Vos]] Dwemer Museum.
 * Smokeskin-Willer[^1]
-	* Smokeskin-Killer is not directly involved with this quest but is the subject of [[milar-maryon|Milar Maryon]]'s ministrations.
+	* Smokeskin-Killer is not directly involved with this quest but is the subject of [[milar-maryon|Milar Maryon's]] ministrations.
 
 [^1]: [[oaab-grazelands|OAAB Grazelands]]
