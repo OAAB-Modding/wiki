@@ -152,7 +152,7 @@ export default (() => {
 
     // Url of current page
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : new URL(fileData.slug!, url).toString()
+      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
 
     return (
       <head>
