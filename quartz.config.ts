@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "oaab.dev",
+    baseUrl: "oaab.dev/wiki",
     ignorePatterns: ["private", "**/templates/", ".obsidian"],
     defaultDateType: "modified",
     generateSocialImages: false,
